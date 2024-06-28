@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\assets\\audiosfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|solutionrelative:assets\\audiosfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\assets\\sistem_drag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|solutionrelative:assets\\sistem_drag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\assets\\tempat_drop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|solutionrelative:assets\\tempat_drop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|d:\\folder bayu\\all tugas\\tugas akhir\\game peduli lingkungan\\peduli lingkungan\\assets\\sistemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|solutionrelative:assets\\sistemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\assets\\sistemkumpulansuara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|solutionrelative:assets\\sistemkumpulansuara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\assets\\sistemmateri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|solutionrelative:assets\\sistemmateri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\assets\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|solutionrelative:assets\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\assets\\sistemskor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|solutionrelative:assets\\sistemskor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\assets\\controlpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|solutionrelative:assets\\controlpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\assets\\sistemgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|solutionrelative:assets\\sistemgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\assets\\canvaspengaturan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A3D07-10A6-88B1-E95C-04A249712699}|Assembly-CSharp.csproj|solutionrelative:assets\\canvaspengaturan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SistemGame.cs",
+              "DocumentMoniker": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\SistemGame.cs",
+              "RelativeDocumentMoniker": "Assets\\SistemGame.cs",
+              "ToolTip": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\SistemGame.cs",
+              "RelativeToolTip": "Assets\\SistemGame.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAUwMwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:46:04.251Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ControlPG.cs",
+              "DocumentMoniker": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\ControlPG.cs",
+              "RelativeDocumentMoniker": "Assets\\ControlPG.cs",
+              "ToolTip": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\ControlPG.cs",
+              "RelativeToolTip": "Assets\\ControlPG.cs",
+              "ViewState": "AQIAABEBAAAAAAAAAADwvysBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:55:55.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SistemSkor.cs",
+              "DocumentMoniker": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\SistemSkor.cs",
+              "RelativeDocumentMoniker": "Assets\\SistemSkor.cs",
+              "ToolTip": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\SistemSkor.cs",
+              "RelativeToolTip": "Assets\\SistemSkor.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:35:22.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\LevelManager.cs",
+              "ToolTip": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\LevelManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:56:14.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SistemMateri.cs",
+              "DocumentMoniker": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\SistemMateri.cs",
+              "RelativeDocumentMoniker": "Assets\\SistemMateri.cs",
+              "ToolTip": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\SistemMateri.cs",
+              "RelativeToolTip": "Assets\\SistemMateri.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAIwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:25:56.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SistemKumpulanSuara.cs",
+              "DocumentMoniker": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\SistemKumpulanSuara.cs",
+              "RelativeDocumentMoniker": "Assets\\SistemKumpulanSuara.cs",
+              "ToolTip": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\SistemKumpulanSuara.cs",
+              "RelativeToolTip": "Assets\\SistemKumpulanSuara.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAywB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:24:40.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SistemUI.cs",
+              "DocumentMoniker": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\SistemUI.cs",
+              "RelativeDocumentMoniker": "Assets\\SistemUI.cs",
+              "ToolTip": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\SistemUI.cs",
+              "RelativeToolTip": "Assets\\SistemUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:57:56.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tempat_Drop.cs",
+              "DocumentMoniker": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\Tempat_Drop.cs",
+              "RelativeDocumentMoniker": "Assets\\Tempat_Drop.cs",
+              "ToolTip": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\Tempat_Drop.cs",
+              "RelativeToolTip": "Assets\\Tempat_Drop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:41:31.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sistem_Drag.cs",
+              "DocumentMoniker": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\Sistem_Drag.cs",
+              "RelativeDocumentMoniker": "Assets\\Sistem_Drag.cs",
+              "ToolTip": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\Sistem_Drag.cs",
+              "RelativeToolTip": "Assets\\Sistem_Drag.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAIwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:57:09.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioSfx.cs",
+              "DocumentMoniker": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\AudioSfx.cs",
+              "RelativeDocumentMoniker": "Assets\\AudioSfx.cs",
+              "ToolTip": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\AudioSfx.cs",
+              "RelativeToolTip": "Assets\\AudioSfx.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:02:26.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CanvasPengaturan.cs",
+              "DocumentMoniker": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\CanvasPengaturan.cs",
+              "RelativeDocumentMoniker": "Assets\\CanvasPengaturan.cs",
+              "ToolTip": "D:\\FOLDER BAYU\\All tugas\\Tugas Akhir\\Game Peduli Lingkungan\\Peduli Lingkungan\\Assets\\CanvasPengaturan.cs",
+              "RelativeToolTip": "Assets\\CanvasPengaturan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:09:05.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
