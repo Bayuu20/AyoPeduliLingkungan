@@ -6,45 +6,48 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Beranda.unity
+    path: Assets/Editor/Scenes/Beranda.unity
     guid: 4d69faf2b42d31847a0fe0acef038d31
   - enabled: 1
-    path: Assets/Scenes/Materi.unity
+    path: Assets/Editor/Scenes/Materi.unity
     guid: aa2155212cb6d6d4eab862eada36ee38
   - enabled: 1
-    path: Assets/Scenes/Informasi.unity
+    path: Assets/Editor/Scenes/Informasi.unity
     guid: 4b194cfdd51e0a44abbec3bb0749a3cd
   - enabled: 1
-    path: Assets/Scenes/Manfaat.unity
+    path: Assets/Editor/Scenes/Manfaat.unity
     guid: d1e5ec54b91b19d49bbd7b74ad0c16c6
   - enabled: 1
-    path: Assets/Scenes/Tentang.unity
+    path: Assets/Editor/Scenes/Tentang.unity
     guid: ec40d5e8112c61b46aac332f0f3394f0
   - enabled: 1
-    path: Assets/Scenes/Keluar.unity
+    path: Assets/Editor/Scenes/CaraBermain.unity
+    guid: 3463ddafbb8ec5f4dbbba04257af3675
+  - enabled: 1
+    path: Assets/Editor/Scenes/Keluar.unity
     guid: 194e24631a4aa454db32c0907054dad1
   - enabled: 1
-    path: Assets/Scenes/Pengaturan.unity
+    path: Assets/Editor/Scenes/Pengaturan.unity
     guid: 2d50c21084a3ef5478b62c5d2a50f701
   - enabled: 1
-    path: Assets/Scenes/game0.unity
+    path: Assets/Editor/Scenes/game0.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/game1.unity
+    path: Assets/Editor/Scenes/game1.unity
     guid: 21dcfc508097c144cab5dd07abaefda3
   - enabled: 1
-    path: Assets/Scenes/game2.unity
+    path: Assets/Editor/Scenes/game2.unity
     guid: 3d31e75690a6da2438276eb7b8dc16d6
   - enabled: 1
-    path: Assets/Scenes/game3.unity
+    path: Assets/Editor/Scenes/game3.unity
     guid: 93a0f4f96e47e66409ac9319e9b830ad
   - enabled: 1
-    path: Assets/Scenes/game4.unity
+    path: Assets/Editor/Scenes/game4.unity
     guid: 4061cdffe898a434cb460f0b8261742c
   - enabled: 1
-    path: Assets/Scenes/GameSelesai.unity
+    path: Assets/Editor/Scenes/GameSelesai.unity
     guid: d458b9abe66db0143891b43045670a76
   - enabled: 1
-    path: Assets/Scenes/PG1.unity
+    path: Assets/Editor/Scenes/PG1.unity
     guid: 36cc74429ca85d446ba6bcec75857695
   m_configObjects: {}

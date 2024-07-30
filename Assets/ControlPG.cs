@@ -168,17 +168,7 @@ public class ControlPG : MonoBehaviour
             }
         }
 
-        if (isJawabanHarusBenar)
-        {
-            if (isJawabanBenar)
-            {
-                GenerateNextSoal();
-            }
-        }
-        else
-        {
-            GenerateNextSoal();
-        }
+        GenerateNextSoal(); // Pindah ke soal berikutnya terlepas dari jawaban benar atau salah
     }
 
     void DecreaseDarah()
